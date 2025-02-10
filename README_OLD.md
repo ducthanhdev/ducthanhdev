@@ -12,7 +12,7 @@ I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietname
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://fstack.io.vn/)  
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://fstack.io.vn/)  
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://fstack.io.vn/)  
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript)](https://www.typescriptlang.org/)  
 [![C++](https://img.shields.io/badge/C++-000?&logo=cplusplus&logoColor=0057b8)](https://fstack.io.vn/)  
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://fstack.io.vn/)  
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://fstack.io.vn/)
