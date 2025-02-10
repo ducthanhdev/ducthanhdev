@@ -6,6 +6,7 @@ I'm Duc ThanhThanh, a professional **self taught** Full Stack developer from Vie
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.com/channels/ducthanhdev)
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/@ducthanhdev)
 [![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@ducthanhdev)
+[![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/Specialist-Force-543/)
 
 ### Languages
 
@@ -47,7 +48,7 @@ I'm Duc ThanhThanh, a professional **self taught** Full Stack developer from Vie
 [![](https://img.shields.io/badge/Azure-000?&logo=microsoft-azure&logoColor=008AD7)](http://fstack.io.vn/)
 
 <!-- <a href="http://fstack.io.vn/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=devtruongson&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ducthanhdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
 </a> -->
 <a href="http://fstack.io.vn/">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ducthanhdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
