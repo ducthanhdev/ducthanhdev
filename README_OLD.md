@@ -1,6 +1,6 @@
-### Hi there, I'm Nguyễn Đức Thành 👋  
+### Hi there, I'm Nguyễn Đức Thành 👋
 
-I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietnamese.
+I'm Duc Thanh, a professional **self-taught** Full Stack developer from Vietnam.
 
 [![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://fstack.io.vn/)  
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.com/channels/ducthanhdev)  
@@ -8,7 +8,7 @@ I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietname
 [![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@ducthanhdev)  
 [![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/Specialist-Force-543/)
 
-### Languages  
+### Languages
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://fstack.io.vn/)  
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://fstack.io.vn/)  
@@ -17,7 +17,7 @@ I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietname
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://fstack.io.vn/)  
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://fstack.io.vn/)
 
-### Technologies  
+### Technologies
 
 [![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](https://fstack.io.vn/)  
 [![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://fstack.io.vn/)  
@@ -32,7 +32,7 @@ I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietname
 [![](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://fstack.io.vn/)  
 [![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://fstack.io.vn/)
 
-### Other  
+### Other
 
 [![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://fstack.io.vn/)  
 [![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://fstack.io.vn/)  
@@ -46,7 +46,6 @@ I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietname
 [![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://fstack.io.vn/)  
 [![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://fstack.io.vn/)  
 [![](https://img.shields.io/badge/Azure-000?&logo=microsoft-azure&logoColor=008AD7)](https://fstack.io.vn/)
-
 
 <a href="https://fstack.io.vn/">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ducthanhdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
