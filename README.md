@@ -53,3 +53,7 @@ I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietname
 </a> -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=ducthanhdev&theme=transparent)](http://fstack.io.vn/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducthanhdev&show_icons=true&theme=transparent)](http://fstack.io.vn/)
+
+### My Favorites Quote
+
+“Don’t wait for the perfect moment. Take the moment and make it perfect.”
