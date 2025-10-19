@@ -1,4 +1,4 @@
-### Hi there, I'm Nguyễn Đức Thành 👋
+### Hi there, I'm Nguyễn Đức Thành 👋  
 
 I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietnamese.
 
@@ -7,6 +7,7 @@ I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietname
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/@ducthanhdev)
 [![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@ducthanhdev)
 [![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/Specialist-Force-543/)
+![](https://komarev.com/ghpvc/?username=ducthanhdev&color=green)
 
 ### Languages
 
@@ -50,16 +51,5 @@ I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietname
 <!-- <a href="http://fstack.io.vn/">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ducthanhdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
 </a> -->
-<a href="http://fstack.io.vn/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ducthanhdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</a>
-<a href="http://fstack.io.vn/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducthanhdev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
-
-<p align="center"> 
-  Visitor count<br>
-  <a href="http://fstack.io.vn/">
-    <img src="https://profile-counter.glitch.me/ducthanhdev/count.svg" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ducthanhdev&theme=transparent)](http://fstack.io.vn/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducthanhdev&show_icons=true&theme=transparent)](http://fstack.io.vn/)
