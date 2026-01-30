@@ -1,6 +1,6 @@
 ### Hi there, I'm Nguyễn Đức Thành 👋  
 
-I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietnamese.
+I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietnam.
 
 [![](https://img.shields.io/badge/-🌈%20Website-FFF)](http://fstack.io.vn/)
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.com/channels/ducthanhdev)
