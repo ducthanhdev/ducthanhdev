@@ -51,8 +51,10 @@ I'm Duc Thanh, a professional **self taught** Full Stack developer from Vietnam.
 <!-- <a href="http://fstack.io.vn/">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ducthanhdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
 </a> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ducthanhdev&theme=default&hide_border=true)](https://github.com/ducthanhdev)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ducthanhdev&show_icons=true&theme=default&hide_border=true)](https://github.com/ducthanhdev)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ducthanhdev&theme=default)
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ducthanhdev&theme=default)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ducthanhdev&theme=default)
+
 
 ### My Favorites Quote
 
